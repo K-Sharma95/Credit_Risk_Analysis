@@ -5,7 +5,7 @@
   
 ## Which models are best?
 
-[**Native Random Oversampling**](Naive_Random_Oversampling.png)
+! [**Native Random Oversampling**](Naive_Random_Oversampling.png)
 **SMOTE Oversampling** vs **Undersampling** vs **Combination (Over and Under) Sampling** 
  
  **Balanced_Random_Forest_Classifier** vs **Easy_Ensemble_Adaboost_Classifier**
