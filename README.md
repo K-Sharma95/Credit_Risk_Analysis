@@ -5,7 +5,7 @@
   
 ## Which models are best?
 
-[**Native Random Oversampling**](Naive_Random_Oversampling.png) vs [**SMOTE Oversampling**](SMOTE_Oversampling.png) vs [**Undersampling**](Undersampling) vs [**Combination (Over and Under) Sampling**](Combination 
+[**Native Random Oversampling**](Naive_Random_Oversampling.png) vs [**SMOTE Oversampling**](SMOTE_Oversampling.png) vs [**Undersampling**](Undersampling) vs [**Combination (Over and Under) Sampling**](Combination Sampling.png)
 
   These four methods are similar, but varied greatly in two ways. The first major difference is the output they produced. As seen by the images 
  
