@@ -5,7 +5,7 @@
   
 ## Which models are best?
 
-Native Random Oversampling vs SMOTE Oversampling vs Undersampling vs Combination (Over and Under) Sampling 
+**Native Random Oversampling** vs **SMOTE Oversampling** vs **Undersampling** vs **Combination (Over and Under) Sampling** 
  
   
   
