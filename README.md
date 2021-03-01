@@ -7,4 +7,4 @@
 
 **Native Random Oversampling** vs **SMOTE Oversampling** vs **Undersampling** vs **Combination (Over and Under) Sampling** 
  
- **Balanced_Random_Forest_Classifier** vs **Easy_Ensemble_Adaboost_Classifier
+ **Balanced_Random_Forest_Classifier** vs **Easy_Ensemble_Adaboost_Classifier**
