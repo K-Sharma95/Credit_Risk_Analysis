@@ -7,6 +7,6 @@
 
 [**Native Random Oversampling**](Naive_Random_Oversampling.png) vs [**SMOTE Oversampling**](SMOTE_Oversampling.png) vs [**Undersampling**](Undersampling) vs [**Combination Sampling**](Combination Sampling.png)
 
-  These four methods are similar, but varied greatly in two ways. The first major difference is the output they produced. As seen by the images the first three methods vary in ther output, nut the fourth method varies greatly. This can be seen drastically in the f1 columns of the final report.
+  These four methods are similar, but varied greatly in two ways. The first major difference is the output they produced. As seen by the images the first three methods vary in ther output, nut the fourth method varies greatly. This can be seen drastically in the f1 columns of the final report. 
  
  **Balanced_Random_Forest_Classifier** vs **Easy_Ensemble_Adaboost_Classifier**
