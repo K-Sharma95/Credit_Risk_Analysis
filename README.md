@@ -3,7 +3,7 @@
   
   This respository uses jupyter notebook, specifically the pandas, imbalanced-learn and scikit-learn libraries to conduct a statistical analysis on these data and make observations about not only the dataset provided, but also the machine-learning tools being used here in the credit_risk_resampling, and credit_risk_ensemble. Models and algorithms such as RandomOverSampler, SMOTE, and ClusterCEntroids etc., will be used. The following questions about machine learning, and our data will be answered through our analysis; Which machine learning model is most accurate? Which, if any, is recommended for this purpose? What other observations can be made?
   
-##So which models are best?
+## Which models are best?
 
 Native Random Oversampling vs SMOTE Oversampling vs Undersampling vs Combination (Over and Under) Sampling 
  
