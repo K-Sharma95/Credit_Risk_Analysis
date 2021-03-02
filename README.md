@@ -7,7 +7,7 @@
 
 * Resampling Models
 
-  ! [Naive Random Sampling](https://github.com/K-Sharma95/Credit_Risk_Analysis/blob/main/Images/Naive%20Random%20Sampling.png)
+  ![Naive Random Sampling](https://github.com/K-Sharma95/Credit_Risk_Analysis/blob/main/Images/Naive%20Random%20Sampling.png)
 
 * Ensemble Models
 
