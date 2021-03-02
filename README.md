@@ -7,7 +7,7 @@
 
 * Resampling Models
 
-  ![Naive Random Sampling](Images/Naive Random Sampling.png)
+  ! [Naive Random Sampling](Images/Naive Random Sampling.png)
 
 * Ensemble Models
 
