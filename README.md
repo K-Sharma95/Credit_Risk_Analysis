@@ -5,7 +5,10 @@
   
 ## Which models are best?
 
+* Resampling Models
+
 [**Native Random Oversampling**](Naive_Random_Oversampling.png) vs [**SMOTE Oversampling**](SMOTE_Oversampling.png) vs [**Undersampling**](Undersampling) vs [**Combination Sampling**](Combination Sampling.png)
 
+Ensemble Models
 
  **Balanced_Random_Forest_Classifier** vs **Easy_Ensemble_Adaboost_Classifier**
