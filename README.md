@@ -5,11 +5,11 @@
   
 ## Which models are best?
 
-* Resampling Models
+###* Resampling Models
 
   ![Naive Random Sampling](https://github.com/K-Sharma95/Credit_Risk_Analysis/blob/main/Images/Naive%20Random%20Sampling.png)
 
-* Ensemble Models
+###* **Ensemble Models**
 
  **Balanced_Random_Forest_Classifier**
  ![](https://github.com/K-Sharma95/Credit_Risk_Analysis/blob/main/Images/Balanced_Forest_Random_Classifier.png)
