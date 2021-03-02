@@ -7,7 +7,12 @@
 
 ### - **Resampling Models**
 
-  ![Naive Random Sampling](https://github.com/K-Sharma95/Credit_Risk_Analysis/blob/main/Images/Naive%20Random%20Sampling.png)
+  [Naive Random Sampling](https://github.com/K-Sharma95/Credit_Risk_Analysis/blob/main/Images/Naive%20Random%20Sampling.png)
+  [SMOTE](https://github.com/K-Sharma95/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Method.png)
+  [UnderSampling](https://github.com/K-Sharma95/Credit_Risk_Analysis/blob/main/Images/Undersampling.png)
+  [Combination Sampling](https://github.com/K-Sharma95/Credit_Risk_Analysis/blob/main/Images/Combination.png)
+  
+Among the resampling methods of analysis, I think the combination sampling method is best. 
 
 ### - **Ensemble Models**
 
@@ -16,3 +21,5 @@
  
  **Easy_Ensemble_Adaboost_Classifier**
  ![](https://github.com/K-Sharma95/Credit_Risk_Analysis/blob/main/Images/Adaboost_Classifier.png)
+
+The easy ensemble adaboost method is the best method used in this case. 
